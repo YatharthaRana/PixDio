@@ -1,24 +1,33 @@
 # PixDio
 Project Submitted to Nebula organised by MDG IITR
 
-###Contents
+##Contents
 
 ● Setup
+
 ● What is PixDio?
+
 ● Aim & Features
+
 ● Problems Occurred
+
 ● Future Scopes
+
 ● References
 
 
-###Setup
+##Setup
 Clone the repository and then run it in IDE like Visual Studio Code
 !Some Backend Files require GPU and might not work on CPU or take much time!
 
-#### Languages/Framework
+### Languages/Framework
+
 ❖ Python3
+
 ❖ ReactJS
+
 ❖ Google Colab
+
 ❖ Django REST API
 
 ## What is PixDio?
@@ -28,9 +37,12 @@ It is a web app made in view as an attempt to group all the works related to mul
 
 <img width="1440" alt="Screenshot 2023-06-09 at 23 14 03" src="https://github.com/YatharthaRana/PixDio/assets/95047694/8d5d35dc-482c-41ff-96e6-af11c64983de">
 
+
 ##Features
 
 ###Pixel Alchemy
+
+
 <img width="1440" alt="Screenshot 2023-06-09 at 23 16 07" src="https://github.com/YatharthaRana/PixDio/assets/95047694/fceebcb1-09f1-46e5-a017-aea580cf2a98">
 
 ####Word Canvas
