@@ -51,6 +51,9 @@ It is a web app made in view as an attempt to group all the works related to mul
 
 Unleash your imagination with our Text to Image feature. Transform written ideas into stunning visual representations. Simply input your descriptive text, and watch as our AI-powered technology brings your words to life, generating vibrant and captivating images that match your imagination.
 
+<img width="1440" alt="Screenshot 2023-06-10 at 00 29 23" src="https://github.com/YatharthaRana/PixDio/assets/95047694/b0674d59-b383-4435-8a36-5044a223e5a6">
+
+
 ### Face Morphix
 
 Currently this tool is not able to connect to frontend, hence the red button is there. The reason for this is the python file is not running when the post request is sent to the backend using Django. There is no error displayed too. I don't know why its happening.
