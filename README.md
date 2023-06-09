@@ -19,7 +19,8 @@ Project Submitted to Nebula organised by MDG IITR
 ## Setup
 
 Clone the repository and then run it in IDE like Visual Studio Code
-!Some Backend Files require GPU and might not work on CPU or take much time!
+
+**!Some Backend Files require GPU and might not work on CPU or take much time!**
 
 ### Languages/Framework
 
