@@ -54,17 +54,14 @@ Unleash your imagination with our Text to Image feature. Transform written ideas
 <img width="1440" alt="Screenshot 2023-06-10 at 00 29 23" src="https://github.com/YatharthaRana/PixDio/assets/95047694/b0674d59-b383-4435-8a36-5044a223e5a6">
 
 
-### Face Morphix
+### Face Morphix and Chroma Magic
 
-Currently this tool is not able to connect to frontend, hence the red button is there. The reason for this is the python file is not running when the post request is sent to the backend using Django. There is no error displayed too. I don't know why its happening.
-
-### Chroma Magic
-
-Currently this tool is not able to connect to frontend, hence the red button is there. The reason for this is the python file is not able to run on my Macbook most likely GPU missing on my device. Hence I am not able to connect it. The file is there in Colab_Files folder, if you want to try then directly run it on Google Colab and have fun. 
+Currently this tool is not able to connect to frontend, hence the red button is there. The reason for this is the python file is not able to run on my Macbook most likely GPU problem. Hence I am not able to connect it. The file is there in Colab_Files folder, if you want to try then directly run it on Google Colab and have fun. 
 
 ### Reso Revive
 
-This was working initially but now having same problem as in Face Morphix.
+<img width="1440" alt="Screenshot 2023-06-10 at 16 29 39" src="https://github.com/YatharthaRana/PixDio/assets/95047694/b8bf249b-1557-4924-a9ae-b7b3f4baee0c">
+
 Some outputs of this feature are:
 
 File from 77KB to 1.2MB
@@ -83,8 +80,7 @@ File from 77KB to 1.2MB
 
 # Problems Occurring
 
-The main problem which I am facing is that the file is not running despite of showing 0 errors. Well, if no error is displayed, how to debug the code.
-Another problems are inevitable like no GPU in MacBook and Transformer Library not working properly.
+Problems are inevitable like no GPU in MacBook and Transformer Library not working properly.
 
 # Future Scope
 
