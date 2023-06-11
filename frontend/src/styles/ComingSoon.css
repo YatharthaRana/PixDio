@@ -1,0 +1,31 @@
+.coming-soon-container {
+  text-align: center;
+  padding: 50px;
+  background-color: #f1f1f1;
+}
+
+.coming-soon-header {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color:rgba(240, 53, 53, 0.884);
+}
+
+.coming-soon-description {
+  font-size: 18px;
+  margin-bottom: 30px;
+  color:rgba(2, 2, 74, 0.837);
+  font-weight: 600;
+  text-align: center;
+}
+
+
+
+.coming-soon-message {
+  font-size: 16px;
+  font-style: italic;
+  color:black;
+  text-align: center;
+}
+
+/* Additional styling can be added based on your requirements */

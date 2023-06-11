@@ -1,0 +1,45 @@
+.cpics {
+    height : 46rem;
+    width: 100%;
+    display: block;
+}
+
+.fir p{
+    color: black;
+    font-family: cursive;
+    font-size: 18px;
+}
+
+.fir h5{
+    color: black;
+    font-family: fantasy;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.sec p{
+
+    font-family: cursive;
+    font-size: 18px;
+}
+
+.sec h5{
+
+    font-family: fantasy;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.thir p{
+
+    font-family: cursive;
+    font-size: 18px;
+}
+
+.thir h5{
+
+    font-family: fantasy;
+    font-size: 24px;
+    font-weight: 600;
+}
+
