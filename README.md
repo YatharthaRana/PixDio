@@ -20,7 +20,7 @@ Project Submitted to Nebula organised by MDG IITR
 
 Clone the repository and then run it in IDE like Visual Studio Code
 
-**Please download models first and place them in backend/api/ folder**
+**Please download models first and place them in backend/api/ folder** (URLs are in colab files)
 
 **!Some Backend Files require GPU and might not work on CPU or take much time!**
 
