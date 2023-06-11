@@ -20,6 +20,8 @@ Project Submitted to Nebula organised by MDG IITR
 
 Clone the repository and then run it in IDE like Visual Studio Code
 
+**Please download models first and place them in backend/api/ folder**
+
 **!Some Backend Files require GPU and might not work on CPU or take much time!**
 
 ### Languages/Framework
@@ -80,7 +82,11 @@ File from 77KB to 1.2MB
 
 # Problems Occurring
 
-Problems are inevitable like no GPU in MacBook and Transformer Library not working properly.
+I am facing many problems and errors like:
+- No GPU in Macbook which results in long operations and sometimes auto-termination of the process.
+- Images are not accessible from variable and no error is showing. I searched on stackoverflow and tried to debug it but in vain.
+- If the second problem get sorted, **Pixel Alchemy** Service will almost be completed and will be working. 
+- For your ease, I have colored the buttons red for those features which are not connected with backend files because of second problem :/
 
 # Future Scope
 
